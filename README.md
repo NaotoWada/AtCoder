@@ -1,7 +1,8 @@
 AtCoder
 ====
 
-AtCoder submissions and algorithm
+AtCoder submissions and algorithm  
+[AtCoder]([https://atcoder.jp/)
 
 ## Description
 AtCoderの提出をコミットして再利用性を高めます。  
@@ -11,4 +12,6 @@ AtCoderの提出をコミットして再利用性を高めます。
 java1.8
 
 ## Author
-[NaotoWada](https://github.com/NaotoWada)
+GitHubAcount[NaotoWada](https://github.com/NaotoWada)
+
+AtCoderAcount[naotooct25](https://atcoder.jp/users/naotooct25)
